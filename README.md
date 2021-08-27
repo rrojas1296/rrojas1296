@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Diego Raul Rojas</h1>
 <h3 align="center">Im a developer from Peru</h3>
-<img src="https://mindstask.com/video/frontendSmallBanner.jpg" alt="" height="300" width="1920"/>
+<img src="https://mindstask.com/video/frontendSmallBanner.jpg" alt="" height="450" width="1920"/>
 
 
 - 🔭 I’m currently working on [ChatApp](https://my-chat.xyz)
