@@ -3,7 +3,7 @@
 <h3 align="center">Im a developer from Peru</h3>
 <img src="https://mindstask.com/video/frontendSmallBanner.jpg" alt="" height="450" width="1920"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=devup2332&hide=contribs,prs)
 
 
 - 🔭 I’m currently working on [ChatApp](https://my-chat.xyz)
