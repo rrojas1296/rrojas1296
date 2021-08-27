@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Diego Raul Rojas</h1>
 <h3 align="center">Im a developer from Peru</h3>
 
-- 🔭 I’m currently working on **BooksApp**
+- 🔭 I’m currently working on [ChatApp](https://my-chat.xyz)
 
 - 🌱 I’m currently learning **NextJs**
 
+- 👨‍💻 All of my projects are available at [https://drojascam.com](https://drojascam.com)
+
+- 📫 How to reach me **devup2332@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/drojascam.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="drojascam.com" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/diego-raul-rojas-camargo-ab289b208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/diego-raul-rojas-camargo-ab289b208" height="30" width="40" /></a>
 </p>
 
