@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Diego Raul Rojas</h1>
 <h3 align="center">Im a developer from Peru</h3>
-<img src="https://mindstask.com/video/frontendSmallBanner.jpg" alt="" height="450" width="1920"/>
+<img src="https://res.cloudinary.com/dder8kjda/image/upload/v1726812621/Screenshot_20240920_011011_qcttii.png" alt="" height="450" width="1920"/>
 
 ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=devup2332&hide=contribs,prs)
 
